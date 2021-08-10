@@ -1,14 +1,7 @@
 Oii, eu sou a Emily Menezes 👋 
 - 👀 Meu foco é em desenvolvimento web no lado do front end
-- 🌱 eu tenho estudado javascript
 - 💞️ Eu desenvolvo projetos pessoais a fim de colocar em prática os meus conhecimentos
-
-<div>
-  <a href="https://github.com/emilylmenezes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=emilylmenezes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilylmenezes&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
+- 📚 Meus estudos tem sido direcionados a:   
 <div style="display: inline_block"><br>
   <img align="center" alt="emy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="emy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,11 +10,19 @@ Oii, eu sou a Emily Menezes 👋
   <img align="center" alt="emy-bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="emy-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="emy-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="right" alt="emy-gif" height="130px" src="https://media.discordapp.net/attachments/757933849069224007/874739066883698758/snoopy-smile.gif">
-  
- 
+  <img align="right" alt="emy-gif" height="130px" src="https://media.discordapp.net/attachments/757933849069224007/874800921589207040/perfil.jpg?width=491&height=473">
 </div>
   
+  ##
+  
+<div>
+  <a href="https://github.com/emilylmenezes">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=emilylmenezes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilylmenezes&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
+
   ##
  
  <div> 
