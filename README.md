@@ -17,6 +17,9 @@ Oii, eu sou a Emily Menezes 👋
   <img align="center" alt="emy-bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="emy-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="emy-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="right" alt="emy-gif" height="130px" src="https://media.discordapp.net/attachments/757933849069224007/874739066883698758/snoopy-smile.gif">
+  
+ 
 </div>
   
   ##
