@@ -30,5 +30,6 @@ Oii, eu sou a Emily Menezes 👋
   <a href="https://www.instagram.com/_emilylmenezes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emily-menezes-1342481a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"</a> 
+<a href="https://twitter.com/emilylmenezes?s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"</a> 
 
   ![Snake animation](https://github.com/emilylmenezes/emilylmenezes/blob/output/github-contribution-grid-snake.svg)
