@@ -10,6 +10,7 @@ Oii, eu sou a Emily Menezes 👋
   <img align="center" alt="emy-bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="emy-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="emy-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="emy-sql" height="30" width="40" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img align="right" alt="emy-gif" height="130px" src="https://media.discordapp.net/attachments/757933849069224007/874800921589207040/perfil.jpg?width=491&height=473">
 </div>
   
