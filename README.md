@@ -1,7 +1,7 @@
-Oii, eu sou a Emily Menezes 👋 
-- 👀 Meu foco é em desenvolvimento web no lado do front end
-- 💞️ Eu desenvolvo projetos pessoais a fim de colocar em prática os meus conhecimentos
-- 📚 Meus estudos tem sido direcionados a:   
+Olá, eu sou a Emily Menezes 👋 
+- 👩🏻‍🎓 Sou formada em Desenvolvimento de Sistemas  
+- 💞️ Eu desenvolvo projetos pessoais e me dedico tanto ao front-end quanto ao back-end.
+- 📚 Ultimamente tenho focado em: 
 <div style="display: inline_block"><br>
   <img align="center" alt="emy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="emy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
