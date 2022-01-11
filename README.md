@@ -1,6 +1,6 @@
 Olá, eu sou a Emily Menezes 👋 
 - 👩🏻‍🎓 Sou formada em Desenvolvimento de Sistemas  
-- 💞️ Eu desenvolvo projetos pessoais e me dedico tanto ao front-end quanto ao back-end.
+- 💞️ Entusiasta da Tecnologia ◦ Back-End Developer 
 - 📚 Ultimamente tenho focado em: 
 <div style="display: inline_block"><br>
   <img align="center" alt="emy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
