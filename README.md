@@ -1,5 +1,6 @@
 Olá, eu sou a Emily Menezes 👋 
 - 👩🏻‍🎓 Desenvolvedora Full Stack em formação pela Trybe  
+- 🎓 Desenvolvimento de Software Back-End com Node.JS - Alura e Cubos Academy em parceria com a Nubank
 - 💞️ Entusiasta da Tecnologia ◦ Formada em Desenvolvimento de Sistemas
 - 📚 Ultimamente tenho focado em: 
 <div style="display: inline_block"><br>
