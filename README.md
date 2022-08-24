@@ -32,8 +32,6 @@ Olá, eu sou a Emily Menezes 👋
   <a href="mailto:emilylopes734@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a> 
   </div>
   <br>
- 
-  ![emilylmenezes ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=emilylmenezes&custom_title=emilylmenezes%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 <a href="https://github.com/emilylmenezes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilylmenezes&theme=gruvbox&hide_langs_below=1"/>
